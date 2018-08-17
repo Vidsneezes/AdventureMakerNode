@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 })
 
 const linereader = readline.createInterface({
-  input: fs.createReadStream('TheBadOrge.txt')
+  input: fs.createReadStream('Adventure.txt')
 })
 
 var line = 0;

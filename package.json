@@ -2,7 +2,9 @@
   "name": "spirecrawler",
   "author": "vidsneezes",
   "private": false,
-  "scripts": {},
+  "scripts": {
+    "start": "node game.js"
+  },
   "dependencies": {
   }
 }
