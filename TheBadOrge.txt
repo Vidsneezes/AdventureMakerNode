@@ -1,0 +1,2 @@
+0#Enter Dungeon?#y,22#no,-999
+22#You Encounter a monster#approach it,0#head west,0#stand still,0
